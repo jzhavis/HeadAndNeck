@@ -6,8 +6,35 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/GameManagerTemplateScene.unity
+    guid: 60ac2b7b65879a14f9d63083de1ab22f
+  - enabled: 1
+    path: Assets/Scenes/GameManagerScenes/Starting Scene.unity
+    guid: e8cc50e04a563224f9e7cec6d274b084
+  - enabled: 1
+    path: Assets/Scenes/GameManagerScenes/Scene 1 Patient.unity
+    guid: 365c8387f3495f140bca2365cbfe6925
+  - enabled: 1
+    path: Assets/Scenes/GameManagerScenes/Scene 2 Testing and CEx.unity
+    guid: 941854b599b601b47b1f7dfd673a6faa
+  - enabled: 1
+    path: Assets/Scenes/GameManagerScenes/Scene 3 Imaging.unity
+    guid: 5e44673e0795f08469c23f4d96b5ea7e
+  - enabled: 1
+    path: Assets/Scenes/GameManagerScenes/Scene 4 Go Home.unity
+    guid: 51ca9c0865d64c646be27832203b6dab
+  - enabled: 1
+    path: Assets/Scenes/GameManagerScenes/Scene 4 Stroke.unity
+    guid: 9c47bd760741d71408dbe571dc5c8fb6
+  - enabled: 1
+    path: Assets/Scenes/GameManagerScenes/Scene 5 Feedback.unity
+    guid: 06c71022832d9674baf113d23b1acd6b
+  - enabled: 1
+    path: Assets/Scenes/GameManagerScenes/Scene 6 Fin.unity
+    guid: 6f805103ba654b748828501c0544a1ac
+  - enabled: 1
+    path: Assets/Scenes/GameManagerScenes/PatientTestScene.unity
+    guid: 410f6dafc07cb7f42a21912724762f76
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
